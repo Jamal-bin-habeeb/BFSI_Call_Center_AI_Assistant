@@ -1,0 +1,802 @@
+[
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹32000. Can I get a personal loan of ₹250000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹34000. Can I get a personal loan of ₹300000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹36000. Can I get a personal loan of ₹350000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹38000. Can I get a personal loan of ₹400000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹40000. Can I get a personal loan of ₹450000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹42000. Can I get a personal loan of ₹500000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹44000. Can I get a personal loan of ₹550000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹46000. Can I get a personal loan of ₹600000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹48000. Can I get a personal loan of ₹650000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹50000. Can I get a personal loan of ₹700000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹52000. Can I get a personal loan of ₹750000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹54000. Can I get a personal loan of ₹800000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹56000. Can I get a personal loan of ₹850000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹58000. Can I get a personal loan of ₹900000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹60000. Can I get a personal loan of ₹950000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹62000. Can I get a personal loan of ₹1000000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹64000. Can I get a personal loan of ₹1050000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹66000. Can I get a personal loan of ₹1100000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹68000. Can I get a personal loan of ₹1150000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Assess personal loan eligibility and respond in a professional banking tone.",
+    "input": "My monthly salary is ₹70000. Can I get a personal loan of ₹1200000?",
+    "output": "Thank you for your inquiry. Personal loan eligibility depends on income stability, credit score, existing obligations, and repayment capacity. Typically, total EMI commitments should not exceed 40–50% of monthly income. Final approval is subject to credit assessment."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹63000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹66000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹69000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹72000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹75000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹78000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹81000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹84000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹87000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹90000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹93000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹96000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹99000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹102000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹105000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹108000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹111000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹114000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹117000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Evaluate home loan eligibility in a compliant banking tone.",
+    "input": "My monthly salary is ₹120000. How much home loan can I get?",
+    "output": "Home loan eligibility is determined based on repayment capacity, credit profile, age, existing liabilities, and selected tenure. EMI obligations should remain within acceptable debt-to-income limits. A detailed assessment will determine the sanctioned amount."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹400000 at 10.5% for 18 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹500000 at 10.5% for 24 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹600000 at 10.5% for 30 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹700000 at 10.5% for 36 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹800000 at 10.5% for 42 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹900000 at 10.5% for 48 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1000000 at 10.5% for 54 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1100000 at 10.5% for 60 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1200000 at 10.5% for 66 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1300000 at 10.5% for 72 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1400000 at 10.5% for 78 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1500000 at 10.5% for 84 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1600000 at 10.5% for 90 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1700000 at 10.5% for 96 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1800000 at 10.5% for 102 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹1900000 at 10.5% for 108 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹2000000 at 10.5% for 114 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹2100000 at 10.5% for 120 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹2200000 at 10.5% for 126 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Explain EMI calculation and repayment structure clearly.",
+    "input": "What will be EMI for ₹2300000 at 10.5% for 132 months?",
+    "output": "EMI is calculated using the principal amount, applicable interest rate, and tenure through a standard amortization formula. Each installment includes both principal and interest components. Exact EMI values can be obtained using an official EMI calculator."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Provide information about interest rates and loan charges professionally.",
+    "input": "What are the applicable interest rates and processing charges?",
+    "output": "Interest rates vary based on credit profile, loan type, and tenure. Processing fees typically range between 1%–2% of the loan amount plus applicable taxes. All charges are disclosed in the sanction letter and loan agreement."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 605. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 610. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 615. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 620. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 625. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 630. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 635. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 640. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 645. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 650. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 655. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 660. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 665. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 670. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 675. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 680. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 685. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 690. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 695. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain credit score importance and risk assessment professionally.",
+    "input": "My credit score is 700. Will it affect my loan approval?",
+    "output": "Credit score is a key indicator of repayment behavior and financial discipline. Higher scores may qualify for better terms, while lower scores may impact eligibility or pricing. Final approval depends on overall risk evaluation."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Explain loan documentation and processing requirements clearly.",
+    "input": "What documents are required and how long does processing take?",
+    "output": "Applicants must submit identity proof, address proof, income documents, and bank statements. Processing timelines typically range from 24 hours to 5 working days, subject to document verification and compliance checks."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Provide guidance on repayment management and compliance policies.",
+    "input": "What happens if I delay or modify my EMI payments?",
+    "output": "Delayed EMI payments may attract penal charges and impact credit score. Repayment modifications such as restructuring or due date changes are subject to lender policy and regulatory compliance."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  },
+  {
+    "instruction": "Explain regulatory disclosure and customer grievance policies.",
+    "input": "How does the bank ensure transparency and handle complaints?",
+    "output": "The bank ensures transparency through detailed loan agreements, sanction letters, and disclosure of charges. Grievances may be raised through official customer care channels and are addressed within defined regulatory timelines."
+  }
+]
