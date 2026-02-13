@@ -1,0 +1,30 @@
+BFSI Bank Policy Document 2024
+
+1. Home Loan Policy
+   - Eligibility: Resident Indians aged 21-65 years. Salaried: Min income ₹25k/mo. Self-Employed: Min turnover ₹10L/yr.
+   - Tenure: Up to 30 years.
+   - Interest Rates:
+     - Repo Rate Linked: 8.50% - 9.25% p.a.
+     - Fixed Rate: 10.50% p.a. (3-year lock-in).
+   - Pre-payment: No penalty for floating rate loans. 2% penalty for fixed rate loans if paid within 3 years.
+   - Documents: KYC, 3 months salary slips, Form 16, 6 months bank statement, Property papers.
+
+2. Credit Card Policy
+   - Billing Cycle: 20th of every month. Payment Due Date: 10th of next month.
+   - Late Payment Fee:
+     - Due < ₹500: Nil
+     - Due ₹501 - ₹5000: ₹500
+     - Due > ₹5000: ₹1200
+   - Interest (Finance Charges): 3.5% per month (42% p.a.) on revolving credit.
+   - Cash Withdrawal: 2.5% fee (Min ₹500) + interest from day 1.
+
+3. Grievance Redressal Mechanism
+   - Level 1: Branch Manager or Customer Care (response in 7 days).
+   - Level 2: Nodal Officer (nodal.officer@bfsibank.com) if not satisfied with Level 1 (response in 10 days).
+   - Level 3: Principal Nodal Officer (pno@bfsibank.com).
+   - Banking Ombudsman: If complaint unresolved for 30 days, approach RBI Ombudsman.
+
+4. Digital Transaction Limits
+   - UPI: ₹1 Lakh per day. 10 transactions per day.
+   - IMPS: ₹5 Lakhs per day.
+   - NEFT/RTGS: No limit online (as per cooling period for new beneficiaries).
